@@ -17,8 +17,7 @@
 # Call your methods without any arguments here
 #puts snacks
 ## In our snacks method, the default choice is "Cheetos" Calling snacks like this without specifying a choice will return "Any time, is the right time for Cheetos!" 
-def breakfast ("eggs")
-  puts breakfast = eggs 
-  "Morning is the best time for #{breakfast}"
+def breakfast (bfast="eggs")
+  puts "Morning is the best time for #{breakfast}"
 end 
 breakfast 
