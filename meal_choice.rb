@@ -30,4 +30,4 @@ lunch("salad")
 def dinner(dinner="pasta")
   puts "Evening is the best time for #{dinner}"
 end
-dinner
+dinner("in-n-out")
