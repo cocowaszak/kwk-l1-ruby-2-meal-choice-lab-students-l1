@@ -22,4 +22,7 @@ def breakfast(bfast="eggs")
 end 
 breakfast
 
-def lunch 
+def lunch(lunch="pizza")
+puts "Afternoon is the best time for #{lunch}"
+end
+lunch
