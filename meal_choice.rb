@@ -26,3 +26,8 @@ def lunch(lunch="pizza")
 puts "Afternoon is the best time for #{lunch}"
 end
 lunch
+
+def dinner(dinner="pasta")
+  puts "Evening is the best time for #{dinner}"
+end
+dinner
