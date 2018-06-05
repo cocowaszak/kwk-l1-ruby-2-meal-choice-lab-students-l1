@@ -20,5 +20,5 @@
 def breakfast(bfast="eggs")
   puts "Morning is the best time for #{bfast}"
 end 
-breakfast()
+breakfast
 
