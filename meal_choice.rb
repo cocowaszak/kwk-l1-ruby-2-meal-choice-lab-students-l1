@@ -25,7 +25,7 @@ breakfast("french toast")
 def lunch(lunch="pizza")
 puts "Afternoon is the best time for #{lunch}"
 end
-lunch(salad)
+lunch("salad")
 
 def dinner(dinner="pasta")
   puts "Evening is the best time for #{dinner}"
